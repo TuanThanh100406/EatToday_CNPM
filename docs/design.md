@@ -57,4 +57,16 @@ Quan hệ:
 3. Recommendation Service truy xuất dữ liệu từ **Recipe DB**
 4. Kết quả trả về danh sách món ăn phù hợp
 5. User chọn món → lưu vào MealPlan
-6. Hệ thống cập nhật DB & hiển thị xác
+6. Hệ thống cập nhật DB & hiển thị xác nhận
+
+
+---
+
+## 5. Thiết kế giao diện (UI Mockup - sơ bộ)
+
+- **Trang đăng nhập/đăng ký**
+- **Trang chính**: gợi ý món ăn, tìm kiếm
+- **Trang kế hoạch bữa ăn**: hiển thị lịch
+- **Trang công thức chi tiết**
+- **Trang quản lý nguyên liệu & shopping list**
+
