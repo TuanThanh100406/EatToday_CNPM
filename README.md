@@ -1,3 +1,16 @@
+## 📂 Cấu trúc repo (dự kiến)
+```
+CNPM_Ăn hôm nay/
+│── docs/        # Tài liệu (SRS, Use-case, ERD, báo cáo…)
+│── backend/     # API server
+│── web/         # Ứng dụng web (Admin)
+│── mobile/      # Ứng dụng mobile (Nội trợ)
+│── data/        # Dữ liệu mẫu (JSON/CSV món ăn)
+│── tests/       # Kiểm thử
+│── README.md
+```
+
+
 # 🍲 EatToday - Hôm nay ăn gì
 
 ## 📌 Giới thiệu
@@ -21,17 +34,7 @@
 - **Mobile:** Flutter hoặc React Native  
 - **Triển khai:** Docker, Redis (cache)  
 
-## 📂 Cấu trúc repo (dự kiến)
-```
-CNPM_Ăn hôm nay/
-│── docs/        # Tài liệu (SRS, Use-case, ERD, báo cáo…)
-│── backend/     # API server
-│── web/         # Ứng dụng web (Admin)
-│── mobile/      # Ứng dụng mobile (Nội trợ)
-│── data/        # Dữ liệu mẫu (JSON/CSV món ăn)
-│── tests/       # Kiểm thử
-│── README.md
-```
+
 
 ## 🚀 Tiến độ
 - [ ] Viết tài liệu yêu cầu (SRS)  
